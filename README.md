@@ -7,15 +7,11 @@ By default, there are 4 levels. This is how we start,
 
 Turn on the badge. Yes, please do it.
 
-#### Level One,
+#### Tips One, Two, Three and Four,
 
-First, turn on the badge, activate the badge press any button. You will notice there are  4 red and 4 green blinking LED. This will be your first level.
+After turn on the badge, activate the badge press any button. You will notice there are  4 red and 4 green blinking LED. Feel the find the 4 buttons, each button is mapped to one level. Feel the button and find our way out. 
 
-#### Level Two,
-
-After crack the lighting code, use the 4 buttons to navigate and to input the correct password. By completing the input, please press enter.
-
-#### Hidden level (Level Three and Four),
+#### Hidden level,
 
 Find the secret code. Enter into the badge and you will turn the badge into a password cracking badge. This level contains 2 different secret password. The light will be your guide.
 
