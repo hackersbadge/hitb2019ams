@@ -7,7 +7,7 @@ By default, there are 4 levels. This is how we start,
 
 Turn on the badge. Yes, please do it.
 
-### Level One,
+#### Level One,
 
 First, turn on the badge, activate the badge press any button. You will notice there are  4 red and 4 green blinking LED. This will be your first level.
 
