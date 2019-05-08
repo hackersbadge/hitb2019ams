@@ -1,20 +1,10 @@
 ### Let There Be Light 
 #### by HITB2019AMS Badge Team
 
-By default, there are 4 levels. This is how we start,
+The conference badge consists of 4 levels. First step is of course turning it on! 
 
-#### Level 0,
+To activate the badge, press any of the buttons. 4 red and 4 green LEDs will start blinking. Each button is mapped to one level. Find the buttons and find your way out.
 
-Turn on the badge. Yes, please do it.
+If you can discover the secret code, enter it into the badge and you will turn the badge into a password cracking badge! This level contains 2 different secret passwords. The light will be your guide.
 
-#### Tips One, Two, Three and Four,
-
-After turn on the badge, activate the badge press any button. You will notice there are  4 red and 4 green blinking LED. Feel the find the 4 buttons, each button is mapped to one level. Feel the button and find our way out. 
-
-#### Hidden level,
-
-Find the secret code. Enter into the badge and you will turn the badge into a password cracking badge. This level contains 2 different secret password. The light will be your guide.
-
-#### Tips:
-
-Each level comes with different lighting effect, show us your skills and let there be light.
+Tips: Each level comes with different lighting effects, show us your hardware reversing skills and let there be light!
